@@ -1,4 +1,6 @@
+*.ipynb_checkpoints/
 *.txt
 *.csv
+!bodyshops.csv
 *.json
 *.DS_Store
