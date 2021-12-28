@@ -2,7 +2,7 @@ data/*
 *.ipynb_checkpoints/
 *.txt
 *.csv
-!bodyshops.csv
+!some_file_to_ignore
 *.json
 *.DS_Store
 *.tar
